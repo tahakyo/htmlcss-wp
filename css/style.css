@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 /* COMMON */
+
 .clearfix::after{
     content: "";
     display: table;
@@ -26,6 +27,12 @@ html {
     /* border: 1px solid black; */
     margin: 25px auto
 }
+
+ul {
+    list-style: none;
+}
+
+
 /* HEADER */
 
 header{
