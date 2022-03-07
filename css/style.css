@@ -69,10 +69,29 @@ header{
 /* MAIN */
 
 .banner{
+    position: relative;
     height: 300px;
     background-color: #e1d67a;
 
 }
+
+.text-banner{
+    position: absolute;
+    bottom: 4em;
+    left: 2em;
+    color: white;
+    width: 57%;
+}
+.layover{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .2);
+}
+
+
 .content{
 }
 
