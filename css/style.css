@@ -33,6 +33,11 @@ header{
     background-color: #e579e6;
 
 }
+.logo{
+    width: 100px;
+    border-right: solid 1px lightgrey;
+    padding-right: 1em;
+}
 /* MAIN */
 
 .banner{
